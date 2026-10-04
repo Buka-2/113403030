@@ -1,0 +1,6 @@
+nltk
+jieba
+ipykernel
+wordcloud
+matplotlib
+snownlp
